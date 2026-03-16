@@ -10,6 +10,7 @@ OpenClaw Deployer Ultra - 全网最强真实部署工具
 - 实时日志监控 + 进程管理
 - 跨平台支持（Windows/macOS/Linux）
 - 配置文件管理 + 备份恢复
+-OpenClaw迭代qq交流群747764641
 """
 
 import sys
